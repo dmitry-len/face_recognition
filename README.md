@@ -1,1 +1,1 @@
-# Консольное приложение для распознавания лиц
+Console Application for Face Detection
